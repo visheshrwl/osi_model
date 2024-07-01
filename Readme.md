@@ -153,6 +153,16 @@ git push -u origin <your_branch_name>
 
 **15.** Voila! You have made a PR to Bug Buster's Community Website. Sit back patiently and relax while your PR is reviewed.
 
+## Documentation
+    Physical Layer: docs/physical.md
+    Data Link Layer: docs/datalink.md
+    Network Layer: docs/network.md
+    Transport Layer: docs/transport.md
+    Session Layer: docs/session.md
+    Presentation Layer: docs/presentation.md
+    Application Layer: docs/application.md
+
+
 <h2 align="center"> Project Maintainers & Admins</h2>
 <div align="center">
     <a href="https://github.com/visheshrwl">
